@@ -1,0 +1,4 @@
+﻿  Lab2_PDC.cpp
+C:\Users\Roman\source\repos\Lab2_PDC\Lab2_PDC\Lab2_PDC.cpp(18,13): warning C4566: character represented by universal-character-name '\u2227' cannot be represented in the current code page (1251)
+C:\Users\Roman\source\repos\Lab2_PDC\Lab2_PDC\Lab2_PDC.cpp(18,13): warning C4566: character represented by universal-character-name '\u2295' cannot be represented in the current code page (1251)
+  Lab2_PDC.vcxproj -> C:\Users\Roman\source\repos\Lab2_PDC\x64\Debug\Lab2_PDC.exe
